@@ -195,4 +195,4 @@ To switch from SQLite to PostgreSQL:
 
 ## License
 
-This project is available under the BSD 2-Clause License.
+This project is available under the GNU General Public License v3.0.
